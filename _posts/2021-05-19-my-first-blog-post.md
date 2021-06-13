@@ -4,7 +4,7 @@ date: 2021-05-19
 ---
 Name: Julie Ham
 
-Picture: ![image](https://github.com/julieham123/github-pages-with-jekyll/blob/main/IMG_2583.JPG?raw=true)z  
+Picture: ![image](https://github.com/julieham123/github-pages-with-jekyll/blob/main/IMG_2583.JPG?raw=true)  
 
 Social Media Info: 
 
