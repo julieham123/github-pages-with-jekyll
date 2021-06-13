@@ -4,8 +4,10 @@ date: 2021-05-19
 ---
 Name: Julie Ham
 
-Picture: ![image]( insert link here )z  
+Picture: ![image](https://github.com/julieham123/github-pages-with-jekyll/blob/main/IMG_2583.JPG?raw=true)z  
 
 Social Media Info: 
 
-Brag Sheet: 
+Instagram: ju_leave
+
+Brag Sheet: I graduated high school :).
